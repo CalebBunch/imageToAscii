@@ -1,2 +1,2 @@
 # imageToAscii
-Golang code which maps images to thier ascii representations
+Golang code which maps images to their ascii representations
